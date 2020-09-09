@@ -1,2 +1,2 @@
 # Palindromo
-Programa que le uma frase e ve se é palíndromo em C
+Programa que le uma frase e ve se é palíndromo em C e em C++
