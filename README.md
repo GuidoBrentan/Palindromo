@@ -1,2 +1,2 @@
 # Palindromo
-Programa que le uma frase e ve se é palíndromo em C e em C++
+Esse programa é refrente a disciplina de Tópicos em Sistemas Embarcados, que tem por objetivo aumentar a compreensão sobre a linguagem C e C++
